@@ -1,0 +1,6 @@
+{
+  "name": "rafflex/woocommerce-dotpay",
+  "description": "Fast and secure Dotpay payment gateway for WooCommerce.",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0+"
+}
